@@ -52,7 +52,7 @@ Ao final da execução, o script gera um arquivo `resultado_protocolos.txt` cont
 Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades! Você pode abrir uma issue ou fazer um pull request.
 
 ## Licença
-Este projeto não possui uma licença específica.
+Este projeto está licenciado sob a [Licença MIT](./LICENSE) - sinta-se à vontade para usá-lo, modificá-lo e distribuí-lo conforme as permissões da licença.
 
 ---
 
